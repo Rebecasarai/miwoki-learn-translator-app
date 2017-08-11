@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/73c7f0853305b93ce204854f18506f66dc708441/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_83eab5d5b85ce97994e9ad4f6d56565ab5c54af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/850721b4dbac0f1fa886019cfe2ccb6fbc6635b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7724784b4c7bd63c93ed28b23e976648e5b186b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_be5df65616a8d5c311e418fe7d95488cffd7e863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/80028568aee07871509b78266825b29d116d9265/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a951abf5c82f54141d8d1720c32cb4307dd4543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/283702377c7715ae96d9bfbe1b11a4ff4a93c367/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_500a1a877a500f8d84f783e30719a5f21d674d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/2dee7cbdd8c19f54b86f5324350b347ccd5f3059/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22caff59a42cec5b0fcbed1e9984705889e96d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/73c7f0853305b93ce204854f18506f66dc708441/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e4df3038f43b67113cad5a1989cec4524ea1986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2ea581631ba4aed99b42c485bbd3326d6624fe7e">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dfcd22e49d683702d9d003b24ebcd18808ae1969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/a3a110bf15edf4de2f70f6a647209cdfdaece26a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b3846d1aee79b5e8805efcbbec870c8014e765f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/miwoki-learn-translator-app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f2dfe58b529d16437243e917021e1246b0476e1/classes.dex" />
+    </item>
+
+</items>
