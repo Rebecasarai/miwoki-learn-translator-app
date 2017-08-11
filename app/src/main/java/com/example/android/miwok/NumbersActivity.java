@@ -30,31 +30,12 @@ public class NumbersActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_numbers);
 
-        ArrayList<String> words = new ArrayList<>();
+        ArrayList<Word> words = new ArrayList<Word>();
 
-        words.add("One");
-        words.add("Two");
-        words.add("Three");
-        words.add("Four");
-        words.add("Five");
-        words.add("Six");
-        words.add("Seven");
-        words.add("Eight");
-        words.add("nine");
-        words.add("Ten");
-        words.add("One");
-        words.add("Two");
-        words.add("Three");
-        words.add("Four");
-        words.add("Five");
-        words.add("Six");
-        words.add("Seven");
-        words.add("Eight");
-        words.add("nine");
-        words.add("Ten");
+        Word w = new Word("one", "lutti");
         int index=0;
 
-        ArrayAdapter<String> itemsAdapter = new ArrayAdapter<String>(this, R.layout.list_item, words);
+        ArrayAdapter<Word> itemsAdapter = new ArrayAdapter<Word>(this, R.layout.list_item, words);
 
         ListView listView = (ListView) findViewById(R.id.list);
 
