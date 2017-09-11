@@ -22,7 +22,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 public class NumbersActivity extends AppCompatActivity {
-    int totalnumbers=1;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
