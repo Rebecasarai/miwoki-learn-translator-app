@@ -10,8 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a3a6d2-09c6-44be-9852-9a7809e4cd5d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/word_list.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_family.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_numbers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_phrases.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/ColorsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/ColorsActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/FamilyActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/FamilyActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/NumbersActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/NumbersActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/PhrasesActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/PhrasesActivity.java" />
     </list>
     <ignored path="miwoki-learn-translator-app.iws" />
@@ -51,35 +65,35 @@
               <caret line="26" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1064#1070#0" expanded="true" />
+                <element signature="e#1057#1063#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhrasesActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PhrasesActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/PhrasesActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+            <state relative-caret-position="266">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <element signature="e#0#1898#0" expanded="true" />
+                <element signature="e#0#1891#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#1063#1069#0" expanded="true" />
+                <element signature="e#1056#1062#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ColorsActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ColorsActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/ColorsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding>
-                <element signature="e#0#1759#0" expanded="true" />
+                <element signature="e#0#1680#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#1063#1069#0" expanded="true" />
+                <element signature="e#1056#1062#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,10 +103,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/FamilyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1063#1069#0" expanded="true" />
+                <element signature="e#1056#1062#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,6 +122,19 @@
                 <element signature="e#531#532#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/word_list.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -1893,7 +1920,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_numbers.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/Word.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/Phrases.java" />
@@ -1902,8 +1928,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/Phrase.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/WordAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/FamilyActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/ColorsActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/PhrasesActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_numbers.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/ColorsActivity.java" />
       </list>
     </option>
   </component>
@@ -2401,7 +2428,7 @@
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1064#1070#0" expanded="true" />
+            <element signature="e#1057#1063#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2436,7 +2463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_numbers.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/word_list.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
@@ -2453,7 +2480,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1064#1070#0" expanded="true" />
+            <element signature="e#1057#1063#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2488,7 +2515,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_numbers.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/word_list.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
@@ -2542,17 +2569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_numbers.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/Phrase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2588,7 +2604,7 @@
           <caret line="26" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1064#1070#0" expanded="true" />
+            <element signature="e#1057#1063#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2596,10 +2612,33 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/FamilyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1063#1069#0" expanded="true" />
+            <element signature="e#1056#1062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/word_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/PhrasesActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1891#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1056#1062#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2607,23 +2646,11 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/ColorsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding>
-            <element signature="e#0#1759#0" expanded="true" />
+            <element signature="e#0#1680#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#1063#1069#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/PhrasesActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#1898#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#1063#1069#0" expanded="true" />
+            <element signature="e#1056#1062#0" expanded="true" />
           </folding>
         </state>
       </provider>
