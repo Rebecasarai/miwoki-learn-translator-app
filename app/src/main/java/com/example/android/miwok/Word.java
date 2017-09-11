@@ -10,7 +10,7 @@ public class Word {
 
     private String mMiwokTranslation;
 
-    public Word(String defaultTranslation, String miwokTranslation ){
+    public Word(String defaultTranslation, String miwokTranslation/*, int imageResourceId*/ ){
         mDefaultTranslation = defaultTranslation;
         mMiwokTranslation = miwokTranslation;
     }
@@ -22,7 +22,5 @@ public class Word {
     public String getmMiwokTranslation(){
         return mMiwokTranslation;
     }
-
-
 
 }
