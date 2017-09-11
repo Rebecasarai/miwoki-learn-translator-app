@@ -9,10 +9,12 @@ public class Word {
     private String mDefaultTranslation;
 
     private String mMiwokTranslation;
+    private int imageResourceId;
 
-    public Word(String defaultTranslation, String miwokTranslation/*, int imageResourceId*/ ){
+    public Word(String defaultTranslation, String miwokTranslation, int imageResourceId ){
         mDefaultTranslation = defaultTranslation;
         mMiwokTranslation = miwokTranslation;
+        this.imageResourceId=imageResourceId;
     }
 
     public String getmDefaultTranslation(){
@@ -22,5 +24,24 @@ public class Word {
     public String getmMiwokTranslation(){
         return mMiwokTranslation;
     }
+
+
+    public int getImageResourceId() {
+        return imageResourceId;
+    }
+
+    public void setmDefaultTranslation(String mDefaultTranslation) {
+        this.mDefaultTranslation = mDefaultTranslation;
+    }
+
+    public void setmMiwokTranslation(String mMiwokTranslation) {
+        this.mMiwokTranslation = mMiwokTranslation;
+    }
+
+    public void setImageResourceId(int imageResourceId) {
+        this.imageResourceId = imageResourceId;
+    }
+
+
 
 }

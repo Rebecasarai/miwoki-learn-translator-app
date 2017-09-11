@@ -30,16 +30,16 @@ public class FamilyActivity extends AppCompatActivity {
         setContentView(R.layout.word_list);
 
         ArrayList<Word> words = new ArrayList<Word>();
-        words.add(new Word("One", "Lutti"));
-        words.add(new Word("Two", "Oṭiiko"));
-        words.add(new Word("Three", "Tolookosu"));
-        words.add(new Word("Four", "Oyyiisa"));
-        words.add(new Word("Five", "massokka"));
-        words.add(new Word("Six", "temmokka"));
-        words.add(new Word("Seven", "kenekaku"));
-        words.add(new Word("Eight", "kawinṭa"));
-        words.add(new Word("Nine", "wo'e"));
-        words.add(new Word("Ten", "na'aacha"));
+        words.add(new Word("Father", "әpә", R.drawable.ic_action_name));
+        words.add(new Word("Two", "Oṭiiko", R.drawable.mom));
+        words.add(new Word("Three", "Tolookosu",R.drawable.mom));
+        words.add(new Word("Four", "Oyyiisa",R.drawable.mom));
+        words.add(new Word("Five", "massokka",R.drawable.mom));
+        words.add(new Word("Six", "temmokka",R.drawable.mom));
+        words.add(new Word("Seven", "kenekaku",R.drawable.mom));
+        words.add(new Word("Eight", "kawinṭa",R.drawable.mom));
+        words.add(new Word("Nine", "wo'e",R.drawable.mom));
+        words.add(new Word("Ten", "na'aacha",R.drawable.mom));
 
 
 
