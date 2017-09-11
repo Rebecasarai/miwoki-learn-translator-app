@@ -30,13 +30,16 @@ public class NumbersActivity extends AppCompatActivity {
         setContentView(R.layout.activity_numbers);
 
         ArrayList<Word> words = new ArrayList<Word>();
-        words.add(new Word("one", "lutti"));
-        words.add(new Word("one", "lutti"));
-        words.add(new Word("one", "lutti"));
-        words.add(new Word("one", "lutti"));
-
-
-
+        words.add(new Word("One", "Lutti"));
+        words.add(new Word("Two", "Oṭiiko"));
+        words.add(new Word("Three", "Tolookosu"));
+        words.add(new Word("Four", "Oyyiisa"));
+        words.add(new Word("Five", "massokka"));
+        words.add(new Word("Six", "temmokka"));
+        words.add(new Word("Seven", "kenekaku"));
+        words.add(new Word("Eight", "kawinṭa"));
+        words.add(new Word("Nine", "wo'e"));
+        words.add(new Word("Ten", "na'aacha"));
 
 
 
