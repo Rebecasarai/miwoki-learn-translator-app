@@ -24,6 +24,8 @@ public class WordAdapter extends ArrayAdapter<Word> {
         super(context, 0, words);
     }
 
+
+
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         // Check if the existing view is being reused, otherwise inflate the view
