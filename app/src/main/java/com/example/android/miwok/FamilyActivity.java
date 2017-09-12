@@ -30,16 +30,16 @@ public class FamilyActivity extends AppCompatActivity {
         setContentView(R.layout.word_list);
 
         ArrayList<Word> words = new ArrayList<Word>();
-        words.add(new Word("Father", "әpә", R.drawable.ic_action_name));
-        words.add(new Word("Two", "Oṭiiko", R.drawable.mom));
-        words.add(new Word("Three", "Tolookosu",R.drawable.mom));
-        words.add(new Word("Four", "Oyyiisa",R.drawable.mom));
-        words.add(new Word("Five", "massokka",R.drawable.mom));
-        words.add(new Word("Six", "temmokka",R.drawable.mom));
-        words.add(new Word("Seven", "kenekaku",R.drawable.mom));
-        words.add(new Word("Eight", "kawinṭa",R.drawable.mom));
-        words.add(new Word("Nine", "wo'e",R.drawable.mom));
-        words.add(new Word("Ten", "na'aacha",R.drawable.mom));
+        words.add(new Word("Father", "әpә", R.drawable.family_father));
+        words.add(new Word("Mother", "Oṭiiko", R.drawable.family_mother));
+        words.add(new Word("Daughter", "Tolookosu",R.drawable.family_daughter));
+        words.add(new Word("Son", "Oyyiisa",R.drawable.family_son));
+        words.add(new Word("Grand Father", "massokka",R.drawable.family_grandfather));
+        words.add(new Word("Grand Mother", "temmokka",R.drawable.family_grandmother));
+        words.add(new Word("Older Brother", "kenekaku",R.drawable.family_older_brother));
+        words.add(new Word("Older Sister", "kawinṭa",R.drawable.family_older_sister));
+        words.add(new Word("Younger Sister", "wo'e",R.drawable.family_younger_sister));
+        words.add(new Word("Younger Brother", "na'aacha",R.drawable.family_younger_brother));
 
 
 
