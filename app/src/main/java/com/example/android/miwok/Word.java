@@ -17,6 +17,11 @@ public class Word {
         this.imageResourceId=imageResourceId;
     }
 
+    public Word(String mDefaultTranslation, String mMiwokTranslation) {
+        this.mDefaultTranslation = mDefaultTranslation;
+        this.mMiwokTranslation = mMiwokTranslation;
+    }
+
     public String getmDefaultTranslation(){
         return mDefaultTranslation;
     }
