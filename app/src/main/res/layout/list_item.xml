@@ -21,16 +21,18 @@
             xmlns:tools="http://schemas.android.com/tools"
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
+            android:layout_height="match_parent"
             android:id="@+id/descrip"
             android:background="@color/category_numbers"
+            android:paddingLeft="16dp"
 
         >
             <TextView
                 android:id="@+id/miwok_text_view"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="bottom"
                 tools:text="lutti"
                 android:textSize="18sp"
                 android:textColor="@android:color/white"
@@ -38,7 +40,9 @@
             <TextView
                 android:id="@+id/default_text_view"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="top"
                 tools:text="one"
                 android:textSize="18sp"
                 android:textColor="@android:color/white"
