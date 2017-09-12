@@ -2,29 +2,19 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
+    android:orientation="horizontal"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-
-    android:layout_margin="16dp"
-
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/list_item_height"
+    android:padding="16dp"
     >
 
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="16dp"
-        >
-
-
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:srcCompat="@mipmap/ic_launcher"
-            android:id="@+id/imagen"/>
+            android:layout_width="@dimen/list_item_height"
+            android:layout_height="@dimen/list_item_height"
+            android:id="@+id/imagen"
+
+            />
 
         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -32,23 +22,33 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="10dp"
+            android:padding="16dp"
+            android:id="@+id/descrip"
+            android:background="@color/category_numbers"
+
         >
             <TextView
                 android:id="@+id/miwok_text_view"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                tools:text="lutti"/>
+                tools:text="lutti"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"/>
             <TextView
                 android:id="@+id/default_text_view"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                tools:text="one"/>
+                tools:text="one"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                />
 
 
         </LinearLayout>
 
-        </LinearLayout>
+
+
 
 
 </LinearLayout>
