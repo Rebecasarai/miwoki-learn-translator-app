@@ -45,7 +45,7 @@ public class FamilyActivity extends AppCompatActivity {
 
         int index=0;
 
-        WordAdapter itemsAdapter = new WordAdapter(this, words);
+        WordAdapter itemsAdapter = new WordAdapter(this, words, R.color.category_family);
         ListView listView = (ListView) findViewById(R.id.list);
 
         listView.setAdapter(itemsAdapter);
