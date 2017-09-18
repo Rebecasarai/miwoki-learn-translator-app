@@ -20,6 +20,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ImageView;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -32,6 +33,7 @@ public class NumbersActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.word_list);
+        final ImageView playingbutton = (ImageView) findViewById(R.id.playbutton);
 
         final ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word("One", "Lutti", R.drawable.number_one, R.raw.number_one));
@@ -67,6 +69,11 @@ public class NumbersActivity extends AppCompatActivity {
                      mMediaPlayer = MediaPlayer.create(NumbersActivity.this, word.getmAudioResourceId());
                      // Start the audio file
                      mMediaPlayer.start();
+                    /*if(mMediaPlayer.isPlaying()){
+                        playingbutton.setImageResource(ic_media_pause);
+
+
+                    }*/
             }
         });
      }
