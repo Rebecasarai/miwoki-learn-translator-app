@@ -69,11 +69,13 @@ public class NumbersActivity extends AppCompatActivity {
                      mMediaPlayer = MediaPlayer.create(NumbersActivity.this, word.getmAudioResourceId());
                      // Start the audio file
                      mMediaPlayer.start();
-                    /*if(mMediaPlayer.isPlaying()){
-                        playingbutton.setImageResource(ic_media_pause);
 
-
-                    }*/
+                    /*mMediaPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
+                        @Override
+                        public void onCompletion(MediaPlayer mediaPlayer) {
+                            playingbutton.setImageResource(R.drawable.color_white);
+                        }
+                    });*/
             }
         });
      }
