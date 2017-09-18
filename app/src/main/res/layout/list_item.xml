@@ -64,7 +64,8 @@
         android:layout_gravity="center_vertical"
         android:layout_weight="1"
         android:src="@mipmap/ic_launcher"
-        app:srcCompat="@android:drawable/ic_media_play" />
+        app:srcCompat="@android:drawable/ic_media_play"
+        android:id="@+id/playbutton"/>
 
             </LinearLayout>
 
