@@ -24,6 +24,9 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -94,5 +97,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(phrasesIntent);
             }
         });
+    }
+
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+
+
     }
 }
